@@ -181,10 +181,15 @@ footer{
 		background-color: #ddd;
 		font-size: 16px;
 		border-radius:15px;
+		
 	}
 	.box{
 		padding-left: 300px;
 		display:flex;
+	}
+	.link
+	{
+		color: #2327fb;
 	}
 	.paragraph{
 		margin:50px 450px;
